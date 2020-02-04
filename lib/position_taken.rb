@@ -18,4 +18,3 @@ else
 end
 end
 
-puts position_taken?(board, index)
