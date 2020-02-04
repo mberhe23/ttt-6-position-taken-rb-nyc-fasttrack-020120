@@ -17,3 +17,5 @@ else
   
 end
 end
+
+position_taken(board[2])
