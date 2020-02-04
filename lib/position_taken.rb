@@ -10,7 +10,7 @@ index = ["X","0"]
     
 #   else
 #     false
-if board[index] = " " 
+if board[index] == " " 
  false
 else
   true
