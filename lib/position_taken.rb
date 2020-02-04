@@ -11,9 +11,9 @@ def position_taken?(board, index)
 #   else
 #     false
 if index = " "
- true
+ false
 else
-  false
+  true
   
 end
 end
