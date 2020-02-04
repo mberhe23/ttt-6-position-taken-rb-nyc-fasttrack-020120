@@ -5,15 +5,15 @@ board = [" "," "," "," "," "," "," "," "," "]
 index = ["X","0"]
 
 
-#   if index != "X" || index != "O"
-#     false
+  if board[index] != "X" || index != "O"
+    false
     
-#   else
-#     false
-if board[index] == " " 
- false
-else
-  true
+  else
+    false
+# if board[index] == " " 
+# false
+# else
+#   true
   
 end
 end
