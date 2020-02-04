@@ -6,10 +6,12 @@ index = ["X","0"]
 
 
   if board[index] = " " || board[index] = nil
-    false
+    true
     
   else
-    true
+    false
+
+
 # if board[index] == " " 
 # false
 # else
