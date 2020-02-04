@@ -18,4 +18,4 @@ else
 end
 end
 
-puts position_taken?
+# puts position_taken?()
