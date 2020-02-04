@@ -7,3 +7,4 @@ def position_taken
   else
     "true"
 end
+end
