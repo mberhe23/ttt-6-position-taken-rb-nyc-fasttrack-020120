@@ -9,7 +9,7 @@ index = ["X","0"]
     false
     
   else
-    false
+    true
 # if board[index] == " " 
 # false
 # else
