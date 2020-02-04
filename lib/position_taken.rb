@@ -10,7 +10,7 @@ board = [" "," "," "," "," "," "," "," "," "]
     
 #   else
 #     false
-if index = " "
+if index = (" ")
  true
 else
   false
