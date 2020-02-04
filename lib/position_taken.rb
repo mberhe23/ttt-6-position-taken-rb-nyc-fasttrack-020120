@@ -10,7 +10,7 @@ index = ["X","0"]
     
 #   else
 #     false
-if index = " " 
+if index == " " 
  false
 else
   true
