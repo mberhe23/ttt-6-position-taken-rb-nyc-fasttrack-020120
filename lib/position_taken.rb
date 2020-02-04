@@ -2,8 +2,8 @@
 
 def position_taken 
   if index = " "
-    ""
+    "false"
     
   else
-    "move again"
+    "true"
 end
