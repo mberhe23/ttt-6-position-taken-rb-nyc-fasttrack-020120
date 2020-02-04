@@ -2,7 +2,7 @@
 
 
 board = [" "," "," "," "," "," "," "," "," "]
-index = ["X", "0"]
+index = ["X","0"]
 
 def position_taken?(board, index)
   if index != "X" || index != "O"
