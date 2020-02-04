@@ -10,7 +10,7 @@ def position_taken?(board, index)
     
 #   else
 #     false
-if index = " "
+if index = " " || " "
  false
 else
   true
