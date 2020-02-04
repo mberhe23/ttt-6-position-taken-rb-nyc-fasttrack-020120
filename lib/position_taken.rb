@@ -5,4 +5,5 @@ def position_taken
     ""
     
   else
+    "move again"
 end
