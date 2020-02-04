@@ -5,7 +5,7 @@ board = [" "," "," "," "," "," "," "," "," "]
 index = ["X","O"]
 
 
-  if board[index] = "X" || board[index] = "O"
+  if board[index] = " " || board[index] = nil
     true
     
   else
