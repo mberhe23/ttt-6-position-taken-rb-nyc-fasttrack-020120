@@ -10,5 +10,9 @@ index = ["X","0"]
     
 #   else
 #     false
+if index == " "
+ true
+else
+  false
 end
 end
