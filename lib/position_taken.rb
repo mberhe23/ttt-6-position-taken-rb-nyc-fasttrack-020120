@@ -4,11 +4,11 @@
 board = [" "," "," "," "," "," "," "," "," "]
 index = ["X","0"]
 
-def position_taken?(board, index)
-  if index != "X" || index != "O"
-    false
+# def position_taken?(board, index)
+#   if index != "X" || index != "O"
+#     false
     
-  else
-    false
+#   else
+#     false
 end
 end
